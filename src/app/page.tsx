@@ -8,6 +8,7 @@ export default function Home() {
 <div className="flex flex-col justify-center items-center h-screen">
 
    <Link href="/aboutus"> <Button>About Us</Button></Link>
+    <Link href="/register"> <Button>Register</Button></Link>
 
    </div>
     </>
